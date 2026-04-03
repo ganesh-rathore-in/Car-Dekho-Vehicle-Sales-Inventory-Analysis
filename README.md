@@ -15,26 +15,26 @@ This project analyzes car sales data using SQL to uncover trends in vehicle inve
 ### 1. Overall Market Overview
 | Metric | Value |
 |--------|-------|
-| Total Cars in Database | |
-| Years Covered |   |
+| Total Cars in Database | 8148|
+| Years Covered |  1983,1991,1994 -2023|
 | Fuel Types Available | Petrol, Diesel, CNG, etc. |
 
 ### 2. Yearly Sales Trend
-- **Peak Sales Year:**  
-- **Years with 1000+ Sales:**  
-- **Highest Growth Year:**  ]
+- **Peak Sales Year:**  2017
+- **Highest Growth Year:**  1997]
 
 ### 3. Fuel Type Distribution
 | Fuel Type | Count | Percentage |
 |-----------|-------|------------|
-| Petrol |  | [%] |
-| Diesel |  | [%] |
-| CNG |   | [%] |
+| Petrol |  | 44.73[%] |
+| Diesel |  | 54.09[%] |
+| CNG |   | 0.70[%] |
 
 ### 4. Market Evolution
 - Petrol vehicles consistently dominate the market with   share
-- Diesel vehicles peaked in   and have [increased/decreased] since
-- CNG vehicles show [growing/declining/stable] trend
+- Diesel vehicles peaked in  2013 and have decreased since
+- CNG vehicles show declining trend
+
 
 ---
 
